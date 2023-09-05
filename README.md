@@ -1,6 +1,6 @@
 # Cosmos
 
-<img src="https://github.com/jamesnet214/cosmos/assets/52397976/3bc48ebf-b7eb-4a51-b95e-8125e321437b" style="width: 200px;"/>
+<img src="https://github.com/jamesnet214/cosmos/assets/52397976/1ed322e2-b7fa-478a-b1d2-9fde96af2127" style="width: 200px;"/>
 
 
 This program is a development tool that works on all operating systems. 😄
