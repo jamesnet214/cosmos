@@ -7,7 +7,7 @@ This program is a development tool that works on all operating systems. 😄
 - Web Assembly
 - Visual Studio
 - Jetbrains Rider
-- CommunityToolkit
+- Jamesnet.Wpf
 
 | .NET Core 7 | Avalonia Xaml | Web Assembly | VisualStudio | Rider | Jamesnet.Wpf |
 |:-----:|:-------:|:------------:|:--:|:--:|:--:|
